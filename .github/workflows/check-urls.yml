@@ -26,20 +26,35 @@ jobs:
         run: npm install axios
 
       - name: Run URL checker
-        run: node .github/scripts/url-checker.js
-        
-      # Better approach using git status
+        id: url_checker
+        run: |
+          # Run the URL checker and save output
+          node .github/scripts/url-checker.js > checker_output.log 2>&1
+          
+          # Check if there are updated providers
+          if grep -q "### UPDATED_PROVIDERS_START ###" checker_output.log; then
+            echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
+            
+            # Extract only the updated provider lines between the markers
+            sed -n '/### UPDATED_PROVIDERS_START ###/,/### UPDATED_PROVIDERS_END ###/p' checker_output.log | 
+              grep -v "###" > updated_providers.txt
+          else
+            echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
+          fi
+      
       - name: Commit changes if any
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add modflix.json
           
-          # Check if there are changes using git status (more reliable)
+          # Check if there are changes using git status
           if [[ $(git status --porcelain modflix.json) ]]; then
             echo "Found changes in modflix.json, committing..."
             git commit -m "Update provider URLs [skip ci]"
             git push
+            echo "CHANGES_MADE=true" >> $GITHUB_ENV
           else
             echo "No changes detected in modflix.json"
+            echo "CHANGES_MADE=false" >> $GITHUB_ENV
           fi
