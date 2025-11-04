@@ -25,11 +25,11 @@
   },
   "lux": {
     "name": "luxmovies",
-    "url": "https://rogmovies.me"
+    "url": "https://rogmovies.online"
   },
   "drive": {
     "name": "moviesDrive",
-    "url": "https://moviesdrive.rodeo/"
+    "url": "https://moviesdrive.lat/"
   },
   "multi": {
     "name": "multimovies",
@@ -45,11 +45,11 @@
   },
   "hdhub": {
     "name": "hdhub4u",
-    "url": "https://hdhub4u.horse"
+    "url": "https://hdhub4u.pictures"
   },
   "kat": {
     "name": "katmovieshd",
-    "url": "https://katmoviehd.run"
+    "url": "https://katmoviehd.pictures"
   },
   "dc": {
     "name": "dramacool",
@@ -77,7 +77,7 @@
   },
   "consumet": {
     "name": "consumet",
-    "url": "https://api-consumet-org-nine-kappa.vercel.app"
+    "url": "https://consumet.zendax.tech"
   },
   "nfMirror": {
     "name": "nfMirror",
@@ -121,7 +121,7 @@
   },
   "protonMovies": {
     "name": "protonMovies",
-    "url": "https://m3.protonmovies.top"
+    "url": "https://m.protonmovies.site"
   },
   "dramafull": {
     "name": "dramafull",
@@ -155,8 +155,32 @@
     "name": "MovieBox",
     "url": "https://api6.aoneroom.com"
   },
-  "HDMovie2": {
-    "name": "HDMovie2",
-    "url": "https://1cinevood.boutique"
+  "cinevood": {
+    "name": "Cinevood",
+    "url": "https://kmmovies.sbs"
+  },
+  "kmmovies": {
+    "name": "kmmovies",
+    "url": "https://kmmovies.sbs"
+  },
+  "zeefliz": {
+    "name": "zeefliz",
+    "url": "https://zeefliz.world"
+  },
+  "katmoviefix": {
+    "name": "katmoviefix",
+    "url": "https://katmoviefix.casa"
+  },
+  "movies4u": {
+    "name": "movies4u",
+    "url": "https://movies4u.cx"
+  },
+  "joya9tv": {
+    "name": "joya9tv1",
+    "url": "https://joya9tv1.com"
+  },
+  "skymovieshd": {
+    "name": "skyMovesHd",
+    "url": "https://skymovieshd.mba"
   }
 }
