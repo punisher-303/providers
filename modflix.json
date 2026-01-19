@@ -57,7 +57,7 @@
   },
   "dooflix": {
     "name": "dooflix",
-    "url": "https://dooflixpanel.com"
+    "url": "https://moviesnation.pizza"
   },
   "autoEmbed": {
     "name": "autoEmbed",
@@ -95,13 +95,13 @@
     "name": "kissKh",
     "url": "https://kisskh.do"
   },
-  "vadapav": {
-    "name": "vadapav",
-    "url": "https://vadapav.mov"
+  "stream": {
+    "name": "stream",
+    "url": "https://movies4u.nexus"
   },
   "cinemaLuxe": {
     "name": "cinemaLuxe",
-    "url": "https://vegamovieshub.cfd"
+    "url": "https://vegamovies.ks.ua"
   },
   "showbox": {
     "name": "showbox",
@@ -137,7 +137,7 @@
   },
   "filmyfly": {
     "name": "flimyfly",
-    "url": "https://filmyfiy.fyi"
+    "url": "https://ww2.filmyfiy.mov"
   },
   "4khdhub": {
     "name": "4khdhub",
@@ -173,7 +173,7 @@
   },
   "movies4u": {
     "name": "movies4u",
-    "url": "https://movies4u.am"
+    "url": "https://movies4u.pk"
   },
   "joya9tv": {
     "name": "joya9tv1",
@@ -185,14 +185,58 @@
   },
   "1cinevood": {
     "name": "cinewood",
-    "url": "https://1cinevood.biz"
+    "url": "https://1cinevood.codes"
   },
-  "MovieTP": {
-    "name": "movietp",
-    "url": "https://myflixbd.to"
+  "khatri": {
+    "name": "khatri",
+    "url": "https://khatrimazafull1.shop"
   },
-  "stream": {
-    "name": "stream",
-    "url": "https://movies4u.army"
+  "cinema": {
+    "name": "cinema",
+    "url": "https://vegamovieshub.cfd"
+  },
+  "7starhd": {
+    "name": "7starhd",
+    "url": "https://7starhd.build"
+  },
+  "animeheaven": {
+    "name": "animeheaven",
+    "url": "https://animeheaven.me"
+  },
+  "animesalt": {
+    "name": "animesalt",
+    "url": "https://animesalt.top"
+  },
+  "animeworld": {
+    "name": "animeworld",
+    "url": "https://watchanimeworld.net"
+  },
+  "bolly4u": {
+    "name": "bolly4u",
+    "url": "https://allmovieshub.repair"
+  },
+  "bollyflix": {
+    "name": "bollyflix",
+    "url": "https://7starmv.info"
+  },
+  "7info": {
+    "name": "7info",
+    "url": "https://7starmv.info"
+  },
+  "desire": {
+    "name": "desire",
+    "url": "https://desiremovies.group"
+  },
+  "filmy": {
+    "name": "filmy",
+    "url": "https://ofilmyzilla.net"
+  },
+  "maze": {
+    "name": "maze",
+    "url": "https://a.111477.xyz"
+  },
+  "movieflix": {
+    "name": "movieflix",
+    "url": "https://moviesflix8.com"
   }
 }
