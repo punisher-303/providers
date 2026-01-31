@@ -33,7 +33,7 @@
   },
   "multi": {
     "name": "multimovies",
-    "url": "https://multimovies.gripe"
+    "url": "https://multimovies.golf"
   },
   "w4u": {
     "name": "world4ufree",
@@ -45,7 +45,7 @@
   },
   "hdhub": {
     "name": "hdhub4u",
-    "url": "https://new3.hdhub4u.fo"
+    "url": "https://new2.hdhub4u.fo"
   },
   "kat": {
     "name": "katmovieshd",
@@ -57,7 +57,7 @@
   },
   "dooflix": {
     "name": "dooflix",
-    "url": "https://moviesnation.coffee"
+    "url": "https://moviesnation.pizza"
   },
   "autoEmbed": {
     "name": "autoEmbed",
@@ -97,11 +97,11 @@
   },
   "stream": {
     "name": "stream",
-    "url": "https://movies4u.health"
+    "url": "https://movies4u.nexus"
   },
   "cinemaLuxe": {
     "name": "cinemaLuxe",
-    "url": "https://vegamoviesog.lat"
+    "url": "https://vegamovies.ks.ua"
   },
   "showbox": {
     "name": "showbox",
@@ -193,11 +193,11 @@
   },
   "cinema": {
     "name": "cinema",
-    "url": "https://lvegame.top"
+    "url": "https://vegamovieshub.cfd"
   },
   "7starhd": {
     "name": "7starhd",
-    "url": "https://7starhd.place"
+    "url": "https://7starhd.build"
   },
   "animeheaven": {
     "name": "animeheaven",
@@ -213,19 +213,19 @@
   },
   "bolly4u": {
     "name": "bolly4u",
-    "url": "https://allmovieshub.farm"
+    "url": "https://allmovieshub.repair"
   },
   "bollyflix": {
     "name": "bollyflix",
-    "url": "https://7starmv.skin"
+    "url": "https://7starmv.info"
   },
   "7info": {
     "name": "7info",
-    "url": "https://7starmv.skin"
+    "url": "https://7starmv.info"
   },
   "desire": {
     "name": "desire",
-    "url": "https://desiremovies.gratis"
+    "url": "https://desiremovies.group"
   },
   "filmy": {
     "name": "filmy",
@@ -237,7 +237,7 @@
   },
   "movieflix": {
     "name": "movieflix",
-    "url": "https://1themoviesflix.com"
+    "url": "https://moviesflix8.com"
   },
   "anihub": {
     "name": "anihub",
@@ -246,5 +246,49 @@
   "9anime": {
     "name": "9anime",
     "url": "https://9animetv.to"
+  },
+  "ssrmovies": {
+    "name": "ssrmovies",
+    "url": "https://ssrmovies.free"
+  },
+  "woodclub": {
+    "name": "woodclub",
+    "url": "https://movieswood.club"
+  },
+  "zink": {
+    "name": "zink",
+    "url": "https://new4.zinkmovies.vip"
+  },
+  "filmycab": {
+    "name": "filmycab",
+    "url": "https://filmycab.fyi"
+  },
+  "tamilian": {
+    "name": "tamilian",
+    "url": "https://tamilian.io"
+  },
+  "movietp": {
+    "name": "movietp",
+    "url": "https://myflixbd.to"
+  },
+  "ogo": {
+    "name": "ogo",
+    "url": "https://0gomovies.tel"
+  },
+  "micho": {
+    "name": "micho",
+    "url": "https://www.thaireland.ie"
+  },
+  "ehubm": {
+    "name": "ehubm",
+    "url": "https://extramovies.miami"
+  },
+  "mkvhub": {
+    "name": "mkvhub",
+    "url": "https://www.mkvhub.store"
+  },
+  "hdmovie2": {
+    "name": "hdmovie2",
+    "url": "https://hdmovie2.productions"
   }
 }
