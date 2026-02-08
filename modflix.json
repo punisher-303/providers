@@ -20,7 +20,7 @@
     "url": "https://new14.filepress.store"
   },
   "Vega": {
-    "name": "doodleMovies",
+    "name": "doodlemovies",
     "url": "https://vegamovies.gratis"
   },
   "lux": {
@@ -290,5 +290,33 @@
   "hdmovie2": {
     "name": "hdmovie2",
     "url": "https://hdmovie2.productions"
+  },
+  "asianctv": {
+    "name": "asianctv",
+    "url": "https://dramanicee.lat"
+  },
+  "dude": {
+    "name": "dude",
+    "url": "https://dudefilms.esq"
+  },
+  "fibwatch": {
+    "name": "fibwatch",
+    "url": "https://fibwatch.biz"
+  },
+  "fibtoon": {
+    "name": "fibtoon",
+    "url": "https://fibtoon.top"
+  },
+  "fibdrama": {
+    "name": "fibdrama",
+    "url": "https://fibwatchdrama.xyz"
+  },
+  "vsite": {
+    "name": "vsite",
+    "url": "https://vegamoviesog.site"
+  },
+  "hindim": {
+    "name": "hindim",
+    "url": "https://hindmoviez.cafe"
   }
 }
