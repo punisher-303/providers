@@ -193,7 +193,7 @@
   },
   "cinema": {
     "name": "cinema",
-    "url": "http://vega-city.com"
+    "url": "https://vega-city.com"
   },
   "7starhd": {
     "name": "7starhd",
@@ -253,7 +253,7 @@
   },
   "woodclub": {
     "name": "woodclub",
-    "url": "https://movieswood.live"
+    "url": "https://movieswood.space"
   },
   "zink": {
     "name": "zink",
@@ -317,6 +317,6 @@
   },
   "hindim": {
     "name": "hindim",
-    "url": "https://hindmoviez.cafe"
+    "url": "https://hindmovie.ltd"
   }
 }
