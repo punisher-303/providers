@@ -45,7 +45,7 @@
   },
   "hdhub": {
     "name": "hdhub4u",
-    "url": "https://new1.hdhub4u.af"
+    "url": "https://new5.hdhub4u.cl"
   },
   "kat": {
     "name": "katmovieshd",
@@ -145,7 +145,7 @@
   },
   "moviezwap": {
     "name": "moviezwap",
-    "url": "https://www.moviezwap.taxi/"
+    "url": "https://www.moviezwap.golf/"
   },
   "9xflix": {
     "name": "9xflix",
@@ -317,6 +317,6 @@
   },
   "hindim": {
     "name": "hindim",
-    "url": "https://hindmovie.icu"
+    "url": "https://hindmovie.fit"
   }
 }
